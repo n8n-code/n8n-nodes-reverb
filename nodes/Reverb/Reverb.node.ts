@@ -25,14 +25,14 @@ import { webhooksDescription } from './resources/webhooks';
 
 export class Reverb implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'reverb',
+		displayName: 'Reverb',
 		name: 'N8nDevReverb',
 		icon: { light: 'file:./reverb.svg', dark: 'file:./reverb.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Reverb',
-		defaults: { name: 'reverb' },
+		defaults: { name: 'Reverb' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

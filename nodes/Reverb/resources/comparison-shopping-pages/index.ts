@@ -104,7 +104,7 @@ export const comparisonShoppingPagesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "ID of the comparison shopping page",
 			"default": "",
@@ -173,7 +173,7 @@ export const comparisonShoppingPagesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -307,7 +307,7 @@ export const comparisonShoppingPagesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",

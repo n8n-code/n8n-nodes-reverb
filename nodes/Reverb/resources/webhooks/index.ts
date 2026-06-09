@@ -153,7 +153,7 @@ export const webhooksDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Url",
+			"displayName": "URL",
 			"name": "url",
 			"type": "string",
 			"default": "",
@@ -196,7 +196,7 @@ export const webhooksDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",

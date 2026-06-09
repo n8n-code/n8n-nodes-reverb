@@ -111,7 +111,7 @@ export const cspsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"description": "ID of the comparison shopping page",
 			"default": "",

@@ -840,7 +840,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"description": "ID of shop to search",
 			"default": "",
@@ -1665,7 +1665,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shipping Profile Id",
+			"displayName": "Shipping Profile ID",
 			"name": "shipping_profile_id",
 			"type": "string",
 			"default": "",
@@ -2534,7 +2534,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"description": "ID of shop to search",
 			"default": "",
@@ -2844,7 +2844,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -2880,7 +2880,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -2992,7 +2992,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3028,7 +3028,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3081,7 +3081,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3142,7 +3142,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3178,7 +3178,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3195,7 +3195,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Image Id",
+			"displayName": "Image ID",
 			"name": "image_id",
 			"required": true,
 			"default": "",
@@ -3231,7 +3231,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"required": true,
 			"default": "",
@@ -3854,7 +3854,7 @@ export const listingsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shipping Profile Id",
+			"displayName": "Shipping Profile ID",
 			"name": "shipping_profile_id",
 			"type": "string",
 			"default": "",

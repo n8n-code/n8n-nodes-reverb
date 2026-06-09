@@ -49,7 +49,7 @@ export const feedbackDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Feedback Id",
+			"displayName": "Feedback ID",
 			"name": "feedback_id",
 			"required": true,
 			"default": "",

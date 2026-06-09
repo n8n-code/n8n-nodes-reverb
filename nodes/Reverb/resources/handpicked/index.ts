@@ -641,7 +641,7 @@ export const handpickedDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"description": "ID of shop to search",
 			"default": "",

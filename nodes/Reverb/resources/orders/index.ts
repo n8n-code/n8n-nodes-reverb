@@ -85,7 +85,7 @@ export const ordersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"required": true,
 			"default": "",
@@ -121,7 +121,7 @@ export const ordersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"required": true,
 			"default": "",
@@ -157,7 +157,7 @@ export const ordersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"required": true,
 			"default": "",
@@ -193,7 +193,7 @@ export const ordersDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"required": true,
 			"default": "",

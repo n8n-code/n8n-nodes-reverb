@@ -135,7 +135,7 @@ export const salesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sale Id",
+			"displayName": "Sale ID",
 			"name": "sale_id",
 			"required": true,
 			"default": "",
@@ -171,7 +171,7 @@ export const salesDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Sale Id",
+			"displayName": "Sale ID",
 			"name": "sale_id",
 			"required": true,
 			"default": "",

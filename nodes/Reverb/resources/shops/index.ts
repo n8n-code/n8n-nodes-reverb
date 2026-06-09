@@ -109,7 +109,7 @@ export const shopsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -145,7 +145,7 @@ export const shopsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"required": true,
 			"default": "",

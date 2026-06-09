@@ -49,7 +49,7 @@ export const conversationsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Conversation Id",
+			"displayName": "Conversation ID",
 			"name": "conversation_id",
 			"required": true,
 			"default": "",
@@ -211,7 +211,7 @@ export const conversationsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Recipient Id",
+			"displayName": "Recipient ID",
 			"name": "recipient_id",
 			"type": "string",
 			"default": "",

@@ -8,7 +8,7 @@ import type {
 export class ReverbApi implements ICredentialType {
 	name = 'N8nDevReverbApi';
 
-	displayName = 'reverb API';
+	displayName = 'Reverb API';
 
 	icon: Icon = { light: 'file:../nodes/Reverb/reverb.svg', dark: 'file:../nodes/Reverb/reverb.dark.svg' };
 
@@ -22,7 +22,7 @@ export class ReverbApi implements ICredentialType {
 			default: 'https://api.reverb.com/api',
 			required: true,
 			placeholder: 'https://api.reverb.com/api',
-			description: 'The base URL of your reverb API server',
+			description: 'The base URL of your Reverb API server',
 		},
 		{
 			displayName: 'API Key',

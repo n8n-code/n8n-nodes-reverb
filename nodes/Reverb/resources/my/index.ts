@@ -1163,7 +1163,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Address Id",
+			"displayName": "Address ID",
 			"name": "address_id",
 			"required": true,
 			"default": "",
@@ -1199,7 +1199,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Address Id",
+			"displayName": "Address ID",
 			"name": "address_id",
 			"required": true,
 			"default": "",
@@ -1427,7 +1427,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Listing Id",
+			"displayName": "Listing ID",
 			"name": "listing_id",
 			"type": "number",
 			"default": 0,
@@ -1452,7 +1452,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Recipient Id",
+			"displayName": "Recipient ID",
 			"name": "recipient_id",
 			"type": "number",
 			"default": 0,
@@ -1502,7 +1502,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"type": "string",
 			"default": "",
@@ -1546,7 +1546,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Conversation Id",
+			"displayName": "Conversation ID",
 			"name": "conversation_id",
 			"required": true,
 			"default": "",
@@ -1607,7 +1607,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -1687,7 +1687,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Product Id",
+			"displayName": "Product ID",
 			"name": "product_id",
 			"required": true,
 			"default": "",
@@ -1723,7 +1723,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Product Id",
+			"displayName": "Product ID",
 			"name": "product_id",
 			"required": true,
 			"default": "",
@@ -3247,7 +3247,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"type": "string",
 			"default": "",
@@ -3474,7 +3474,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Follow Id",
+			"displayName": "Follow ID",
 			"name": "follow_id",
 			"required": true,
 			"default": "",
@@ -3510,7 +3510,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Follow Id",
+			"displayName": "Follow ID",
 			"name": "follow_id",
 			"required": true,
 			"default": "",
@@ -3546,7 +3546,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Follow Id",
+			"displayName": "Follow ID",
 			"name": "follow_id",
 			"required": true,
 			"default": "",
@@ -4157,7 +4157,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"description": "ID of shop to search",
 			"default": "",
@@ -5001,7 +5001,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Shop Id",
+			"displayName": "Shop ID",
 			"name": "shop_id",
 			"description": "ID of shop to search",
 			"default": "",
@@ -5493,7 +5493,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -5529,7 +5529,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -5590,7 +5590,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -5752,7 +5752,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Recipient Id",
+			"displayName": "Recipient ID",
 			"name": "recipient_id",
 			"type": "string",
 			"default": "",
@@ -5845,7 +5845,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -5974,7 +5974,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6010,7 +6010,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6084,7 +6084,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Buyer Id",
+			"displayName": "Buyer ID",
 			"name": "buyer_id",
 			"required": true,
 			"default": "",
@@ -6175,7 +6175,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6211,7 +6211,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6272,7 +6272,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6386,7 +6386,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"required": true,
 			"default": "",
@@ -6594,7 +6594,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Order Id",
+			"displayName": "Order ID",
 			"name": "order_id",
 			"description": "Look up payments by order id",
 			"default": "",
@@ -6657,7 +6657,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6712,7 +6712,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6786,7 +6786,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
@@ -6822,7 +6822,7 @@ export const myDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"required": true,
 			"default": "",
